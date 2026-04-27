@@ -6,9 +6,13 @@ A **frontend-only** “about me” site for a fictional **John Doe**: warm edito
 
 Coming soon.
 
-## Screenshot
+## Video demo
 
-Coming soon.
+Screen recording of the UI in motion (WebM, committed in this repo):
+
+<video src="public/videos/john-doe-about.webm" controls playsinline muted width="100%"></video>
+
+If the player does not load in your viewer, open [`public/videos/john-doe-about.webm`](./public/videos/john-doe-about.webm) locally or via **Raw** on GitHub.
 
 ## Features
 
@@ -38,4 +42,3 @@ npm run dev
 - Wire the form to Formspree or Resend
 - Light/dark reader mode toggle
 - OG image and JSON-LD for `Person` schema when you replace with a real name
-# john-doe-about
